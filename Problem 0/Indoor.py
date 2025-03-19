@@ -1,5 +1,5 @@
 # Ask for input in capitals
-Capital = input("Write anything in capital letters and I will lowercase it:" )
+Capital = input("Write anything in capital letters and I will replicate it with lowercase: " )
 
 #Apply lowercase to their input
 
